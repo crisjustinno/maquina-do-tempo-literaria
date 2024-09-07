@@ -30,4 +30,4 @@
 
 **As possibilidades são infinitas!** 
 
-**Gostou da explicação? Precisa de mais alguma informação?** 
+O projeto foi feito para a Imersão Alura + Gemini. Segue o link para conferir a aplicação em tempo real: https://maquina-do-tempo-literaria.vercel.app/
